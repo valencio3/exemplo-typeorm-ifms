@@ -1,0 +1,291 @@
+{
+  "species": [{
+      "id": 1,
+      "scientificName": "Panthera onca",
+      "commonName": "onça-preta",
+      "habitat": "florestas",
+      "family": "felideos",
+      "order": "carnivora"
+    },
+    {
+      "id": 2,
+      "scientificName": "Panthera leo",
+      "commonName": "leão",
+      "habitat": "África",
+      "family": "felideos",
+      "order": "carnivora"
+    },
+    {
+      "id": 3,
+      "scientificName": "Panthera tigris",
+      "commonName": "tigre",
+      "habitat": "continente asiático",
+      "family": "felideos",
+      "order": "carnivora"
+    },
+    {
+      "id": 4,
+      "scientificName": "Leontopithecus rosalia",
+      "commonName": "mico-leão-dourado",
+      "habitat": "mata atlântica brasileira",
+      "family": "Callitrichidae",
+      "order": "Primates"
+    },
+    {
+      "id": 5,
+      "scientificName": "Felis silvestris catus",
+      "commonName": "gato",
+      "habitat": "europa",
+      "family": "felideos",
+      "order": "carnivora"
+    }
+  ],
+  "specimens": [{
+      "id": 1,
+      "serialNumber": "0001",
+      "nickName": "Bilu",
+      "speciesId": 1,
+      "cageId": "00001"
+    },
+    {
+      "id": 2,
+      "serialNumber": "0002",
+      "speciesId": 2,
+      "cageId": "00002"
+    },
+    {
+      "id": 3,
+      "serialNumber": "0003",
+      "speciesId": 3,
+      "cageId": "00003"
+    },
+    {
+      "id": 4,
+      "serialNumber": "0004",
+      "nickName": "Menina",
+      "speciesId": 4,
+      "cageId": "00004"
+    },
+    {
+      "id": 5,
+      "serialNumber": "0005",
+      "speciesId": 5,
+      "cageId": "00005"
+    },
+    {
+      "id": 6,
+      "serialNumber": "0006",
+      "speciesId": 1,
+      "cageId": "00002"
+    },
+    {
+      "id": 7,
+      "serialNumber": "0007",
+      "nickName": "Zoim",
+      "speciesId": 2,
+      "cageId": "00009"
+    },
+    {
+      "id": 8,
+      "serialNumber": "0008",
+      "speciesId": 3,
+      "cageId": "00010"
+    },
+    {
+      "id": 9,
+      "serialNumber": "0009",
+      "speciesId": 4,
+      "cageId": "00004"
+    },
+    {
+      "id": 10,
+      "serialNumber": "0010",
+      "nickName": "Zazá",
+      "speciesId": 5,
+      "cageId": "00002"
+    },
+    {
+      "id": 11,
+      "serialNumber": "0011",
+      "speciesId": 1,
+      "cageId": "00001"
+    },
+    {
+      "id": 12,
+      "serialNumber": "0012",
+      "speciesId": 2,
+      "cageId": "00006"
+    },
+    {
+      "id": 13,
+      "serialNumber": "0013",
+      "speciesId": 3,
+      "cageId": "00007"
+    },
+    {
+      "id": 14,
+      "serialNumber": "0014",
+      "speciesId": 4,
+      "cageId": "00008"
+    },
+    {
+      "id": 15,
+      "serialNumber": "0015",
+      "speciesId": 5,
+      "cageId": "00009"
+    },
+    {
+      "id": 16,
+      "serialNumber": "0016",
+      "speciesId": 1,
+      "cageId": "00002"
+    },
+    {
+      "id": 17,
+      "serialNumber": "0017",
+      "speciesId": 2,
+      "cageId": "00004"
+    },
+    {
+      "id": 18,
+      "serialNumber": "0018",
+      "speciesId": 3,
+      "cageId": "00007"
+    },
+    {
+      "id": 19,
+      "serialNumber": "0019",
+      "speciesId": 4,
+      "cageId": "00003"
+    },
+    {
+      "id": 20,
+      "serialNumber": "0020",
+      "speciesId": 5,
+      "cageId": "00005"
+    }
+  ],
+  "cages": [{
+      "code": "00001",
+      "area": 1
+    },
+    {
+      "code": "00002",
+      "area": 1
+    },
+    {
+      "code": "00003",
+      "area": 2
+    },
+    {
+      "code": "00004",
+      "area": 2
+    },
+    {
+      "code": "00005",
+      "area": 3
+    },
+    {
+      "code": "00006",
+      "area": 3
+    },
+    {
+      "code": "00007",
+      "area": 3
+    },
+    {
+      "code": "00008",
+      "area": 4
+    },
+    {
+      "code": "00009",
+      "area": 4
+    },
+    {
+      "code": "00010",
+      "area": 4
+    }
+  ],
+  "cage_zookeeper": [{
+      "cageId": "00001",
+      "zookeeperId": "12001"
+    },
+    {
+      "cageId": "00003",
+      "zookeeperId": "12002"
+    },
+    {
+      "cageId": "00003",
+      "zookeeperId": "12003"
+    },
+    {
+      "cageId": "00004",
+      "zookeeperId": "12004"
+    },
+    {
+      "cageId": "00002",
+      "zookeeperId": "12002"
+    },
+    {
+      "cageId": "00001",
+      "zookeeperId": "12003"
+    },
+    {
+      "cageId": "00003",
+      "zookeeperId": "12004"
+    },
+    {
+      "cageId": "00004",
+      "zookeeperId": "12002"
+    },
+    {
+      "cageId": "00002",
+      "zookeeperId": "12003"
+    },
+    {
+      "cageId": "00005",
+      "zookeeperId": "12002"
+    },
+    {
+      "cageId": "00006",
+      "zookeeperId": "12003"
+    },
+    {
+      "cageId": "00007",
+      "zookeeperId": "12001"
+    },
+    {
+      "cageId": "00008",
+      "zookeeperId": "12004"
+    },
+    {
+      "cageId": "00009",
+      "zookeeperId": "12002"
+    },
+    {
+      "cageId": "00010",
+      "zookeeperId": "12002"
+    }
+  ],
+  "zookeepers": [{
+      "registrationCode": "12001",
+      "name": "João Alvez Cunha",
+      "birthday": "1988-05-12"
+    },
+    {
+      "registrationCode": "12002",
+      "name": "Pedro Martinez Bezerra",
+      "birthday": "1999-07-23"
+    },
+    {
+      "registrationCode": "12003",
+      "name": "Alan da Silva Nascimento",
+      "birthday": "1993-02-19"
+    },
+    {
+      "registrationCode": "12004",
+      "name": "Henrique Junior Lopes",
+      "birthday": "1973-07-22"
+    }
+  ]
+}
